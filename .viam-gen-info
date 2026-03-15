@@ -1,0 +1,13 @@
+{
+  "module_name": "my-module",
+  "visibility": "public",
+  "namespace": "njooma",
+  "language": "python",
+  "resource_type": "component",
+  "resource_subtype": "generic",
+  "model_name": "generic_component",
+  "initialize_git": false,
+  "generator_version": "0.1.0",
+  "generated_on": "2026-03-09T22:17:26.481274Z",
+  "module_readme_link": "README.md"
+}
